@@ -1,2 +1,6 @@
-# Ortometrik_Kot
-Ortometrik Kot Hesabı 
+# Ortometrik Kot Hesabı 
+
+**Amaç;**
+=========
+
+Geoit farkları yüzeyi ile ortometrik kot hesabını gerçekleştirmektedir.
